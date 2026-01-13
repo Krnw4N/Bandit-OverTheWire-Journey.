@@ -2,6 +2,7 @@
 My personal documentation and journey through OverTheWire Bandit wargame to master Linux CLI.
 ## 🧠 My Struggles & Breakthroughs
 
+📅Tuesday, January 13, 2026
 ### Level 0 -> 1: The Beginning
 **My Confusion:** Honestly, I was completely lost at first. I didn't even know how to connect to the server! After watching some tutorials and asking AI, I realized it was simpler than I thought. But once I was in, I got confused again. Instead of thinking it through, I took the "instant way" by asking AI for the answers. It turned out to be basic commands like `ls`, `cd`, and `find`. The funniest part? Once I found the password, I didn't even know how to use it to log in to the next level. And yes, I had to ask AI again. Haha! 😅
 
